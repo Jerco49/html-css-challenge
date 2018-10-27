@@ -1,0 +1,114 @@
+/* Styles that are used in all or most pages */
+a.navbar-brand {
+    font-size: 20px;
+    color:white !important;
+    background-color: lightseagreen !important;
+    margin-left: 50px !important;
+}
+body {
+    background-color: lightgray;
+}
+.container {
+    width: 95%
+}
+.main_content {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.visual_directory {
+    width: 100%;
+    height: 90%;
+    background-color: white;
+}
+#visual_header {
+    width: 90%;
+    padding-top: 7%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    font-size: 30px;
+    color: lightseagreen;
+    border-bottom: 1px solid lightgray;
+}
+.visual_pictures {
+    /*width: 115%;
+    height: 100%;*/
+    margin-left: 13%;
+    margin-right: 13%;
+    margin-bottom: 20%;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.visual_container {
+    width: 33.33333% !important;
+    margin-left: 3% !important;
+    margin-right: 0% !important;
+}
+.visual_row {
+    width: 300% !important;
+}
+.content_header {
+    width: 85%;
+    padding-top: 7%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right:0%;
+    padding-bottom: 5%;
+    font-size: 40px;
+    color: lightseagreen;
+    border-bottom: 1px solid lightgray;
+}
+
+/* Styles that are used in the home page */
+.summary_image {
+    float:left;
+    width: 175px;
+    height: 160px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+.summary_text {
+    word-wrap: normal;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+/* Styles that are used in the visualizations */
+/*.visual_selection {
+    border:1px solid lightseagreen;
+}*/
+.col_fix {
+    padding-left:0% !important;
+    padding-right:0% !important;
+}
+.visual_analysis_image {
+    width: 90%;
+    height: 80%;
+    margin-left:5%;
+    margin-right:5%;
+}
+.analysis_text {
+    width:90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+
+/* Styles that are used in the comparison and data page */
+.comparison_text {
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.item_title {
+    font-size:20px;
+    color: lightseagreen;
+    margin: auto;
+    margin-left: 45%;
+}

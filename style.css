@@ -107,8 +107,9 @@ body {
 }
 
 .item_title {
+    position: relative;
     font-size:20px;
     color: lightseagreen;
-    margin: auto;
-    margin-left: 45%;
+    margin:auto;
+    left: 35%;
 }
